@@ -1,0 +1,7 @@
+{
+  "name": "search-app",
+  "short_name": "search-app",
+  "description": "A search and results application",
+  "start_url": "/",
+  "display": "standalone"
+}
